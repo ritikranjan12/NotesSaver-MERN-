@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+i{
+  cursor : pointer;
+}
+
+.date{
+  color : rgb(10, 243, 29);
+}
+
+
+.tag{
+  color : red;
+}
+

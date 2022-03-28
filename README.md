@@ -1,6 +1,6 @@
 # NotesSaver(MERN)
 
-# This is a MERN Stack web Application created using Mongodb , Expreessjs , Reactjs, Nodejs.
+### This is a MERN Stack web Application created using Mongodb , Expreessjs , Reactjs, Nodejs.
 
  Backend of our Web Application is in Backend Folder.
 
